@@ -38,3 +38,5 @@ figcaption {
 #logo { /*select elements with the id="logo" */
   background: aqua;
 }
+
+/* Descendent Selector */
