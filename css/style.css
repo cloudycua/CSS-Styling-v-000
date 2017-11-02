@@ -27,9 +27,8 @@ figcaption {
 
 /* Class selector (applied to as many elements as you like) */
 
-.mild-text { /* select elements with a class="milk-test" */
+.milk-text { /* select elements with a class="milk-test" */
   font: bold 2.6em 'Elsie Swash Caps', cursive;
   color: white;
   text-shadow: 0 2px 3px #000;
 }
-
